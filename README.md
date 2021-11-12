@@ -1,1 +1,2 @@
 # foreachdongusu
+- odevi yapildi
